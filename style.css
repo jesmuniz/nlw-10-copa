@@ -4,7 +4,7 @@ padding: 0;
 box-sizing: border-box;
 }
 
-:root { /* varivael com acesso a raiz do html */
+:root { /* variavel com acesso a raiz do html */
   --card-title-border-color: #746615;
   --card-color-primary: #f7dd43;
   --card-bg-color: #1D1C19;
